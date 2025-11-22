@@ -11,7 +11,7 @@ I've been coding for a while but only recently started uploading projects that I
 
 - _Queensland Certificate of Education (2023)_
 
-  **ATAR: 83.8**
+  **ATAR: 83.8/99.95**
 
 ---
 
