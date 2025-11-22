@@ -2,8 +2,9 @@
 Welcome to my GitHub Account I'm Ryan 3rd Year Computer and Software Systems Engineering student and QUT.
 I use this account to post projects that I've worked on that I've found cool, feel free to check any of them out.
 
+<div align=center>
 <a href="https://www.linkedin.com/in/ryan-fraser-2b4618308/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
+</div>
 
 ## :fire: GitHub Statistics
 
