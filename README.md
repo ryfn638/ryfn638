@@ -6,9 +6,13 @@ I use this account to post projects that I've worked on that I've found cool, fe
 
 I've been coding for a while but only recently started uploading projects that I had saved on my hard drive here.
 
+---
+
 <div align=center>
 <a href="https://www.linkedin.com/in/ryan-fraser-2b4618308/"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
+
+---
 
 ## Education
 - _Bachelor of Engineering (Computer and Software Systems) (2024 – 2025)_
