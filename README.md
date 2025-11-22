@@ -7,7 +7,7 @@ I've been coding for a while but only recently started uploading projects that I
 ## :book: Education
 - _Bachelor of Engineering (Computer and Software Systems) (2024 – 2025)_
 
-  **Current GPA: 5.8/7.
+  **Current GPA: 5.8/7**
 
 - _Queensland Certificate of Education (2023)_
 
