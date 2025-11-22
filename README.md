@@ -20,7 +20,10 @@ I've been coding for a while but only recently started uploading projects that I
 ## GitHub Statistics
 
 <div align="center">
+ 
  ![ryfn638's GitHub Stats]( https://github-readme-stats.vercel.app/api?username=ryfn638&show_icons=true&count_private=true&theme=tokyonight)
+ 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfn638&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
+ 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=ryfn638&theme=tokyonight)](https://git.io/streak-stats)
 </div>
