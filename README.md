@@ -10,7 +10,7 @@ I use this account to post projects that I've worked on that I've found cool, fe
 
 <div align="center">
 
-![ryfn638's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryfn6384&show_icons=true&count_private=true&theme=tokyonight)
+![ryfn638's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryfn638&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryfn638&hide=css,php&langs_count=6&layout=compact&theme=tokyonight)
 
