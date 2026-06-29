@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Welcome to my GitHub Account I'm Ryan 3rd Year Computer and Software Systems Engineering student and QUT.
+Welcome to my GitHub Account.
 I use this account to post projects that I've worked on that I've found cool, feel free to check any of them out.
 
 ---
